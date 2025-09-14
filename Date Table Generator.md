@@ -10,7 +10,7 @@ Google Sheet Link: https://docs.google.com/spreadsheets/d/1SiJljkrg6pmzUlluOQMI0
 
 - In cell A5, update the formula as needed:
 
-#### =SEQUENCE(DATE(2050,3,31) - DATE(2000,4,1) + 1, 1, DATE(2000,4,1), 1)
+**=SEQUENCE(DATE(2050,3,31) - DATE(2000,4,1) + 1, 1, DATE(2000,4,1), 1)**
 
 
 - First, input the end date in YYYY,MM,DD format.
