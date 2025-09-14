@@ -4,7 +4,7 @@ Google Sheet Link: https://docs.google.com/spreadsheets/d/1SiJljkrg6pmzUlluOQMI0
 
 ### Instructions
 
---Make a copy of the file in your Google Drive.
+-Make a copy of the file in your Google Drive.
 
 --Open the copied file.
 
