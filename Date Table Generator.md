@@ -1,8 +1,7 @@
 ## Date Table Generator
 
-Google Sheet Link: https://docs.google.com/spreadsheets/d/1SiJljkrg6pmzUlluOQMI0FHifwIK-lOdekvs1CxttUo/edit?usp=sharing
-
-### Instructions
+## Instructions
+- Open this Google Sheet Link: https://docs.google.com/spreadsheets/d/1SiJljkrg6pmzUlluOQMI0FHifwIK-lOdekvs1CxttUo/edit?usp=sharing
 
 - Make a copy of the file in your Google Drive.
 
